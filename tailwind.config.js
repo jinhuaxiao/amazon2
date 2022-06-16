@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        amazon_blue: "#131921"
+        amazon_blue: "#131921",
+        amazon_blue_light: "#1f2d3d",
       }
     },
   },
